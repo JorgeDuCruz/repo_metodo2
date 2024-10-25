@@ -15,4 +15,6 @@ ponerle un nombre nuevo y debes copiar el enlace del repositorio de github en el
 ![gitRemotes](gitRemotes.png)  
 ![defineRemotes](defineRemotes.png)  
 7º Cuando hagas el push debes cambiar el repositorio al que se realizara el push
-desde el actual al que añadiste previamente.
+desde el actual al que añadiste previamente.  
+![nombreOriginal]  
+![cambioDeRepositorio](cambioDeRepositorio.png)
